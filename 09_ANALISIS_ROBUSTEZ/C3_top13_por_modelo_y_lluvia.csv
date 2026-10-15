@@ -1,0 +1,196 @@
+﻿modelo,escenario_lluvia,puesto,parroquia,nombre
+Ancla (recalculada),climatologia_calibrada__beta_PIT,1,170156,CONOCOTO
+Ancla (recalculada),climatologia_calibrada__beta_PIT,2,170152,AMAGUAÑA
+Ancla (recalculada),climatologia_calibrada__beta_PIT,3,170111,GUAMANI
+Ancla (recalculada),climatologia_calibrada__beta_PIT,4,170180,SAN ANTONIO
+Ancla (recalculada),climatologia_calibrada__beta_PIT,5,170177,POMASQUI
+Ancla (recalculada),climatologia_calibrada__beta_PIT,6,170151,ALANGASÍ
+Ancla (recalculada),climatologia_calibrada__beta_PIT,7,170118,LA ECUATORIANA
+Ancla (recalculada),climatologia_calibrada__beta_PIT,8,170154,CALACALÍ
+Ancla (recalculada),climatologia_calibrada__beta_PIT,9,170125,PUENGASI
+Ancla (recalculada),climatologia_calibrada__beta_PIT,10,170164,LA MERCED
+Ancla (recalculada),climatologia_calibrada__beta_PIT,11,170126,QUITUMBE
+Ancla (recalculada),climatologia_calibrada__beta_PIT,12,170175,PIFO
+Ancla (recalculada),climatologia_calibrada__beta_PIT,13,170186,ZÁMBIZA
+Ancla (recalculada),red_ENSO__beta_PIT,1,170111,GUAMANI
+Ancla (recalculada),red_ENSO__beta_PIT,2,170155,CALDERÓN
+Ancla (recalculada),red_ENSO__beta_PIT,3,170132,TURUBAMBA
+Ancla (recalculada),red_ENSO__beta_PIT,4,170118,LA ECUATORIANA
+Ancla (recalculada),red_ENSO__beta_PIT,5,170152,AMAGUAÑA
+Ancla (recalculada),red_ENSO__beta_PIT,6,170126,QUITUMBE
+Ancla (recalculada),red_ENSO__beta_PIT,7,170156,CONOCOTO
+Ancla (recalculada),red_ENSO__beta_PIT,8,170108,CHILLOGALLO
+Ancla (recalculada),red_ENSO__beta_PIT,9,170180,SAN ANTONIO
+Ancla (recalculada),red_ENSO__beta_PIT,10,170131,SOLANDA
+Ancla (recalculada),red_ENSO__beta_PIT,11,170184,TUMBACO
+Ancla (recalculada),red_ENSO__beta_PIT,12,170128,SAN BARTOLO
+Ancla (recalculada),red_ENSO__beta_PIT,13,170177,POMASQUI
+Ancla (recalculada),NMME_local__beta_PIT,1,170155,CALDERÓN
+Ancla (recalculada),NMME_local__beta_PIT,2,170111,GUAMANI
+Ancla (recalculada),NMME_local__beta_PIT,3,170132,TURUBAMBA
+Ancla (recalculada),NMME_local__beta_PIT,4,170118,LA ECUATORIANA
+Ancla (recalculada),NMME_local__beta_PIT,5,170152,AMAGUAÑA
+Ancla (recalculada),NMME_local__beta_PIT,6,170126,QUITUMBE
+Ancla (recalculada),NMME_local__beta_PIT,7,170180,SAN ANTONIO
+Ancla (recalculada),NMME_local__beta_PIT,8,170156,CONOCOTO
+Ancla (recalculada),NMME_local__beta_PIT,9,170108,CHILLOGALLO
+Ancla (recalculada),NMME_local__beta_PIT,10,170177,POMASQUI
+Ancla (recalculada),NMME_local__beta_PIT,11,170110,EL CONDADO
+Ancla (recalculada),NMME_local__beta_PIT,12,170184,TUMBACO
+Ancla (recalculada),NMME_local__beta_PIT,13,170131,SOLANDA
+Logística,climatologia_calibrada__beta_PIT,1,170111,GUAMANI
+Logística,climatologia_calibrada__beta_PIT,2,170156,CONOCOTO
+Logística,climatologia_calibrada__beta_PIT,3,170118,LA ECUATORIANA
+Logística,climatologia_calibrada__beta_PIT,4,170152,AMAGUAÑA
+Logística,climatologia_calibrada__beta_PIT,5,170180,SAN ANTONIO
+Logística,climatologia_calibrada__beta_PIT,6,170125,PUENGASI
+Logística,climatologia_calibrada__beta_PIT,7,170177,POMASQUI
+Logística,climatologia_calibrada__beta_PIT,8,170151,ALANGASÍ
+Logística,climatologia_calibrada__beta_PIT,9,170126,QUITUMBE
+Logística,climatologia_calibrada__beta_PIT,10,170164,LA MERCED
+Logística,climatologia_calibrada__beta_PIT,11,170154,CALACALÍ
+Logística,climatologia_calibrada__beta_PIT,12,170132,TURUBAMBA
+Logística,climatologia_calibrada__beta_PIT,13,170101,BELISARIO QUEVEDO
+Logística,red_ENSO__beta_PIT,1,170111,GUAMANI
+Logística,red_ENSO__beta_PIT,2,170132,TURUBAMBA
+Logística,red_ENSO__beta_PIT,3,170118,LA ECUATORIANA
+Logística,red_ENSO__beta_PIT,4,170155,CALDERÓN
+Logística,red_ENSO__beta_PIT,5,170126,QUITUMBE
+Logística,red_ENSO__beta_PIT,6,170110,EL CONDADO
+Logística,red_ENSO__beta_PIT,7,170131,SOLANDA
+Logística,red_ENSO__beta_PIT,8,170108,CHILLOGALLO
+Logística,red_ENSO__beta_PIT,9,170103,CENTRO HISTORICO
+Logística,red_ENSO__beta_PIT,10,170104,COCHAPAMBA
+Logística,red_ENSO__beta_PIT,11,170128,SAN BARTOLO
+Logística,red_ENSO__beta_PIT,12,170112,IÑAQUITO
+Logística,red_ENSO__beta_PIT,13,170124,PONCEANO
+Logística,NMME_local__beta_PIT,1,170111,GUAMANI
+Logística,NMME_local__beta_PIT,2,170132,TURUBAMBA
+Logística,NMME_local__beta_PIT,3,170155,CALDERÓN
+Logística,NMME_local__beta_PIT,4,170118,LA ECUATORIANA
+Logística,NMME_local__beta_PIT,5,170126,QUITUMBE
+Logística,NMME_local__beta_PIT,6,170110,EL CONDADO
+Logística,NMME_local__beta_PIT,7,170131,SOLANDA
+Logística,NMME_local__beta_PIT,8,170104,COCHAPAMBA
+Logística,NMME_local__beta_PIT,9,170124,PONCEANO
+Logística,NMME_local__beta_PIT,10,170108,CHILLOGALLO
+Logística,NMME_local__beta_PIT,11,170112,IÑAQUITO
+Logística,NMME_local__beta_PIT,12,170103,CENTRO HISTORICO
+Logística,NMME_local__beta_PIT,13,170129,SAN ISIDRO DEL INCA
+Boosting (prof. 2),climatologia_calibrada__beta_PIT,1,170156,CONOCOTO
+Boosting (prof. 2),climatologia_calibrada__beta_PIT,2,170151,ALANGASÍ
+Boosting (prof. 2),climatologia_calibrada__beta_PIT,3,170152,AMAGUAÑA
+Boosting (prof. 2),climatologia_calibrada__beta_PIT,4,170180,SAN ANTONIO
+Boosting (prof. 2),climatologia_calibrada__beta_PIT,5,170111,GUAMANI
+Boosting (prof. 2),climatologia_calibrada__beta_PIT,6,170118,LA ECUATORIANA
+Boosting (prof. 2),climatologia_calibrada__beta_PIT,7,170126,QUITUMBE
+Boosting (prof. 2),climatologia_calibrada__beta_PIT,8,170154,CALACALÍ
+Boosting (prof. 2),climatologia_calibrada__beta_PIT,9,170132,TURUBAMBA
+Boosting (prof. 2),climatologia_calibrada__beta_PIT,10,170186,ZÁMBIZA
+Boosting (prof. 2),climatologia_calibrada__beta_PIT,11,170101,BELISARIO QUEVEDO
+Boosting (prof. 2),climatologia_calibrada__beta_PIT,12,170102,CARCELEN
+Boosting (prof. 2),climatologia_calibrada__beta_PIT,13,170103,CENTRO HISTORICO
+Boosting (prof. 2),red_ENSO__beta_PIT,1,170155,CALDERÓN
+Boosting (prof. 2),red_ENSO__beta_PIT,2,170132,TURUBAMBA
+Boosting (prof. 2),red_ENSO__beta_PIT,3,170126,QUITUMBE
+Boosting (prof. 2),red_ENSO__beta_PIT,4,170118,LA ECUATORIANA
+Boosting (prof. 2),red_ENSO__beta_PIT,5,170152,AMAGUAÑA
+Boosting (prof. 2),red_ENSO__beta_PIT,6,170115,KENNEDY
+Boosting (prof. 2),red_ENSO__beta_PIT,7,170111,GUAMANI
+Boosting (prof. 2),red_ENSO__beta_PIT,8,170131,SOLANDA
+Boosting (prof. 2),red_ENSO__beta_PIT,9,170112,IÑAQUITO
+Boosting (prof. 2),red_ENSO__beta_PIT,10,170156,CONOCOTO
+Boosting (prof. 2),red_ENSO__beta_PIT,11,170128,SAN BARTOLO
+Boosting (prof. 2),red_ENSO__beta_PIT,12,170124,PONCEANO
+Boosting (prof. 2),red_ENSO__beta_PIT,13,170108,CHILLOGALLO
+Boosting (prof. 2),NMME_local__beta_PIT,1,170155,CALDERÓN
+Boosting (prof. 2),NMME_local__beta_PIT,2,170132,TURUBAMBA
+Boosting (prof. 2),NMME_local__beta_PIT,3,170115,KENNEDY
+Boosting (prof. 2),NMME_local__beta_PIT,4,170126,QUITUMBE
+Boosting (prof. 2),NMME_local__beta_PIT,5,170118,LA ECUATORIANA
+Boosting (prof. 2),NMME_local__beta_PIT,6,170152,AMAGUAÑA
+Boosting (prof. 2),NMME_local__beta_PIT,7,170124,PONCEANO
+Boosting (prof. 2),NMME_local__beta_PIT,8,170112,IÑAQUITO
+Boosting (prof. 2),NMME_local__beta_PIT,9,170111,GUAMANI
+Boosting (prof. 2),NMME_local__beta_PIT,10,170131,SOLANDA
+Boosting (prof. 2),NMME_local__beta_PIT,11,170114,JIPIJAPA
+Boosting (prof. 2),NMME_local__beta_PIT,12,170128,SAN BARTOLO
+Boosting (prof. 2),NMME_local__beta_PIT,13,170156,CONOCOTO
+Bosque aleatorio,climatologia_calibrada__beta_PIT,1,170156,CONOCOTO
+Bosque aleatorio,climatologia_calibrada__beta_PIT,2,170180,SAN ANTONIO
+Bosque aleatorio,climatologia_calibrada__beta_PIT,3,170152,AMAGUAÑA
+Bosque aleatorio,climatologia_calibrada__beta_PIT,4,170111,GUAMANI
+Bosque aleatorio,climatologia_calibrada__beta_PIT,5,170151,ALANGASÍ
+Bosque aleatorio,climatologia_calibrada__beta_PIT,6,170177,POMASQUI
+Bosque aleatorio,climatologia_calibrada__beta_PIT,7,170118,LA ECUATORIANA
+Bosque aleatorio,climatologia_calibrada__beta_PIT,8,170126,QUITUMBE
+Bosque aleatorio,climatologia_calibrada__beta_PIT,9,170154,CALACALÍ
+Bosque aleatorio,climatologia_calibrada__beta_PIT,10,170164,LA MERCED
+Bosque aleatorio,climatologia_calibrada__beta_PIT,11,170132,TURUBAMBA
+Bosque aleatorio,climatologia_calibrada__beta_PIT,12,170101,BELISARIO QUEVEDO
+Bosque aleatorio,climatologia_calibrada__beta_PIT,13,170102,CARCELEN
+Bosque aleatorio,red_ENSO__beta_PIT,1,170155,CALDERÓN
+Bosque aleatorio,red_ENSO__beta_PIT,2,170126,QUITUMBE
+Bosque aleatorio,red_ENSO__beta_PIT,3,170132,TURUBAMBA
+Bosque aleatorio,red_ENSO__beta_PIT,4,170118,LA ECUATORIANA
+Bosque aleatorio,red_ENSO__beta_PIT,5,170152,AMAGUAÑA
+Bosque aleatorio,red_ENSO__beta_PIT,6,170111,GUAMANI
+Bosque aleatorio,red_ENSO__beta_PIT,7,170131,SOLANDA
+Bosque aleatorio,red_ENSO__beta_PIT,8,170108,CHILLOGALLO
+Bosque aleatorio,red_ENSO__beta_PIT,9,170180,SAN ANTONIO
+Bosque aleatorio,red_ENSO__beta_PIT,10,170156,CONOCOTO
+Bosque aleatorio,red_ENSO__beta_PIT,11,170128,SAN BARTOLO
+Bosque aleatorio,red_ENSO__beta_PIT,12,170184,TUMBACO
+Bosque aleatorio,red_ENSO__beta_PIT,13,170177,POMASQUI
+Bosque aleatorio,NMME_local__beta_PIT,1,170155,CALDERÓN
+Bosque aleatorio,NMME_local__beta_PIT,2,170126,QUITUMBE
+Bosque aleatorio,NMME_local__beta_PIT,3,170132,TURUBAMBA
+Bosque aleatorio,NMME_local__beta_PIT,4,170118,LA ECUATORIANA
+Bosque aleatorio,NMME_local__beta_PIT,5,170152,AMAGUAÑA
+Bosque aleatorio,NMME_local__beta_PIT,6,170111,GUAMANI
+Bosque aleatorio,NMME_local__beta_PIT,7,170180,SAN ANTONIO
+Bosque aleatorio,NMME_local__beta_PIT,8,170131,SOLANDA
+Bosque aleatorio,NMME_local__beta_PIT,9,170108,CHILLOGALLO
+Bosque aleatorio,NMME_local__beta_PIT,10,170128,SAN BARTOLO
+Bosque aleatorio,NMME_local__beta_PIT,11,170156,CONOCOTO
+Bosque aleatorio,NMME_local__beta_PIT,12,170177,POMASQUI
+Bosque aleatorio,NMME_local__beta_PIT,13,170184,TUMBACO
+Ensamble (ancla + boosting + bosque),climatologia_calibrada__beta_PIT,1,170156,CONOCOTO
+Ensamble (ancla + boosting + bosque),climatologia_calibrada__beta_PIT,2,170152,AMAGUAÑA
+Ensamble (ancla + boosting + bosque),climatologia_calibrada__beta_PIT,3,170180,SAN ANTONIO
+Ensamble (ancla + boosting + bosque),climatologia_calibrada__beta_PIT,4,170111,GUAMANI
+Ensamble (ancla + boosting + bosque),climatologia_calibrada__beta_PIT,5,170118,LA ECUATORIANA
+Ensamble (ancla + boosting + bosque),climatologia_calibrada__beta_PIT,6,170151,ALANGASÍ
+Ensamble (ancla + boosting + bosque),climatologia_calibrada__beta_PIT,7,170126,QUITUMBE
+Ensamble (ancla + boosting + bosque),climatologia_calibrada__beta_PIT,8,170177,POMASQUI
+Ensamble (ancla + boosting + bosque),climatologia_calibrada__beta_PIT,9,170154,CALACALÍ
+Ensamble (ancla + boosting + bosque),climatologia_calibrada__beta_PIT,10,170186,ZÁMBIZA
+Ensamble (ancla + boosting + bosque),climatologia_calibrada__beta_PIT,11,170164,LA MERCED
+Ensamble (ancla + boosting + bosque),climatologia_calibrada__beta_PIT,12,170132,TURUBAMBA
+Ensamble (ancla + boosting + bosque),climatologia_calibrada__beta_PIT,13,170101,BELISARIO QUEVEDO
+Ensamble (ancla + boosting + bosque),red_ENSO__beta_PIT,1,170155,CALDERÓN
+Ensamble (ancla + boosting + bosque),red_ENSO__beta_PIT,2,170132,TURUBAMBA
+Ensamble (ancla + boosting + bosque),red_ENSO__beta_PIT,3,170126,QUITUMBE
+Ensamble (ancla + boosting + bosque),red_ENSO__beta_PIT,4,170118,LA ECUATORIANA
+Ensamble (ancla + boosting + bosque),red_ENSO__beta_PIT,5,170152,AMAGUAÑA
+Ensamble (ancla + boosting + bosque),red_ENSO__beta_PIT,6,170111,GUAMANI
+Ensamble (ancla + boosting + bosque),red_ENSO__beta_PIT,7,170131,SOLANDA
+Ensamble (ancla + boosting + bosque),red_ENSO__beta_PIT,8,170108,CHILLOGALLO
+Ensamble (ancla + boosting + bosque),red_ENSO__beta_PIT,9,170128,SAN BARTOLO
+Ensamble (ancla + boosting + bosque),red_ENSO__beta_PIT,10,170156,CONOCOTO
+Ensamble (ancla + boosting + bosque),red_ENSO__beta_PIT,11,170180,SAN ANTONIO
+Ensamble (ancla + boosting + bosque),red_ENSO__beta_PIT,12,170112,IÑAQUITO
+Ensamble (ancla + boosting + bosque),red_ENSO__beta_PIT,13,170116,LA ARGELIA
+Ensamble (ancla + boosting + bosque),NMME_local__beta_PIT,1,170155,CALDERÓN
+Ensamble (ancla + boosting + bosque),NMME_local__beta_PIT,2,170132,TURUBAMBA
+Ensamble (ancla + boosting + bosque),NMME_local__beta_PIT,3,170126,QUITUMBE
+Ensamble (ancla + boosting + bosque),NMME_local__beta_PIT,4,170118,LA ECUATORIANA
+Ensamble (ancla + boosting + bosque),NMME_local__beta_PIT,5,170152,AMAGUAÑA
+Ensamble (ancla + boosting + bosque),NMME_local__beta_PIT,6,170111,GUAMANI
+Ensamble (ancla + boosting + bosque),NMME_local__beta_PIT,7,170131,SOLANDA
+Ensamble (ancla + boosting + bosque),NMME_local__beta_PIT,8,170108,CHILLOGALLO
+Ensamble (ancla + boosting + bosque),NMME_local__beta_PIT,9,170128,SAN BARTOLO
+Ensamble (ancla + boosting + bosque),NMME_local__beta_PIT,10,170180,SAN ANTONIO
+Ensamble (ancla + boosting + bosque),NMME_local__beta_PIT,11,170156,CONOCOTO
+Ensamble (ancla + boosting + bosque),NMME_local__beta_PIT,12,170115,KENNEDY
+Ensamble (ancla + boosting + bosque),NMME_local__beta_PIT,13,170112,IÑAQUITO

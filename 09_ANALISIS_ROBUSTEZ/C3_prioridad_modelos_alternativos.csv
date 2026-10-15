@@ -1,0 +1,16 @@
+﻿modelo,escenario_lluvia,top13_indice_coinciden_con_red_repo,spearman_H_vs_red_repo,spearman_indice_vs_red_repo
+Ancla (recalculada),climatologia_calibrada__beta_PIT,12,0.971,0.97
+Ancla (recalculada),red_ENSO__beta_PIT,12,1.0,0.996
+Ancla (recalculada),NMME_local__beta_PIT,13,1.0,0.996
+Logística,climatologia_calibrada__beta_PIT,11,0.854,0.85
+Logística,red_ENSO__beta_PIT,9,0.923,0.924
+Logística,NMME_local__beta_PIT,8,0.916,0.918
+Boosting (prof. 2),climatologia_calibrada__beta_PIT,8,0.694,0.689
+Boosting (prof. 2),red_ENSO__beta_PIT,10,0.888,0.847
+Boosting (prof. 2),NMME_local__beta_PIT,8,0.878,0.841
+Bosque aleatorio,climatologia_calibrada__beta_PIT,10,0.818,0.813
+Bosque aleatorio,red_ENSO__beta_PIT,12,0.829,0.773
+Bosque aleatorio,NMME_local__beta_PIT,12,0.835,0.791
+Ensamble (ancla + boosting + bosque),climatologia_calibrada__beta_PIT,10,0.777,0.772
+Ensamble (ancla + boosting + bosque),red_ENSO__beta_PIT,11,0.962,0.928
+Ensamble (ancla + boosting + bosque),NMME_local__beta_PIT,10,0.958,0.932

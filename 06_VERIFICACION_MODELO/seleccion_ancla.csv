@@ -1,0 +1,9 @@
+﻿combinacion,lambda_conjunta,alpha_conjunta,lambda_secuencial,alpha_secuencial,lambda_publicada,alpha_publicada,secuencial_igual_publicada
+temporal__base,1.0,1.25,0.1,1.25,0.1,1.25,True
+temporal__vias,1.0,1.25,0.1,1.25,0.1,1.25,True
+temporal__vias_copernicus,1.0,1.25,0.1,1.25,0.1,1.25,True
+temporal__vias_fabdem,1.0,1.25,0.1,1.25,0.1,1.25,True
+espacial__base,0.1,1.0,0.1,1.0,0.1,1.0,True
+espacial__vias,0.1,1.0,0.1,1.0,0.1,1.0,True
+espacial__vias_copernicus,0.1,1.0,0.1,1.0,0.1,1.0,True
+espacial__vias_fabdem,0.1,1.0,0.1,1.0,0.1,1.0,True

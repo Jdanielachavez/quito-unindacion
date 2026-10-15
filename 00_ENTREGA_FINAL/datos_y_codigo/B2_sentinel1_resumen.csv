@@ -1,0 +1,7 @@
+medida,media,ic95_inf,ic95_sup
+"Diferencia de cambio VV, eventos menos construido (dB)",0.2488449897806523,0.10029639553720668,0.3959093948036937
+Diferencia ponderada por bloques con evento (dB),0.2510569905474161,0.11176183908420012,0.3915089984594862
+Proporción con caída > 3 dB: eventos menos construido (pp),-0.1453084227507232,-0.3454911717469511,0.18979487875097306
+Proporción con alza > 3 dB: eventos menos construido (pp),4.689052245299373,1.5850114518594076,8.07419016303212
+Spearman entre percentil de susceptibilidad y cambio VV,0.06914287775077857,0.039446722368934525,0.09811158995455874
+Percentil medio de los bloques con evento menos construido,1428.380001603913,1149.9179116030234,1701.3220675177618

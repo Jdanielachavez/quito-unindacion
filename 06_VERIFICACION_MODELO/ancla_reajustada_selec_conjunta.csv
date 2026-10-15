@@ -1,0 +1,9 @@
+﻿combinacion,lambda,alpha,max_dif_coeficientes_vs_publicada,logdens_test,logdens_test_publicada,captura_test,captura_publicada
+temporal__base,1.0,1.25,0.42696,1.8514,1.9552,0.8828,0.8312
+temporal__vias,1.0,1.25,0.53254,1.8994,1.9841,0.8908,0.8804
+temporal__vias_copernicus,1.0,1.25,0.58398,1.8811,1.9548,0.876,0.8724
+temporal__vias_fabdem,1.0,1.25,0.57595,1.8777,1.96,0.88,0.8676
+espacial__base,0.1,1.0,5e-05,1.1189,1.1189,0.6441,0.6441
+espacial__vias,0.1,1.0,2e-05,1.176,1.176,0.6317,0.6317
+espacial__vias_copernicus,0.1,1.0,3e-05,1.1475,1.1475,0.6421,0.6421
+espacial__vias_fabdem,0.1,1.0,4e-05,1.095,1.095,0.6386,0.6386

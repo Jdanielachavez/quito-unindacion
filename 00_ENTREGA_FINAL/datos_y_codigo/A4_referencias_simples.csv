@@ -1,0 +1,13 @@
+﻿modelo,n_variables,temporal_logdens,temporal_captura,temporal_lambda_alpha,espacial_logdens,espacial_captura,espacial_lambda_alpha
+Solo distancia a quebrada,1,0.078,0.086,1.0/1.25,0.069,0.115,0.001/1.25
+Solo distancia a río,1,0.236,0.315,0.1/0.75,0.164,0.259,1.0/1.25
+Solo distancia a colector,1,1.235,0.712,0.001/1.0,1.206,0.618,0.1/1.0
+Solo pendiente,1,0.988,0.446,0.001/1.25,0.936,0.419,0.001/1.25
+Solo altitud,1,0.01,0.0,0.1/0.75,0.001,0.0,1.0/0.25
+Solo construido 500 m,1,1.585,0.878,0.001/1.25,0.804,0.61,0.001/1.0
+Solo distancia vial,1,1.774,0.815,0.001/1.25,1.168,0.571,0.001/1.25
+Drenaje (3 distancias),3,1.266,0.747,0.001/1.0,1.198,0.639,0.1/1.0
+Terreno (4),4,1.077,0.56,0.01/1.0,0.969,0.512,0.01/1.25
+Urbano (construido 100/500 m y vial),3,1.905,0.88,0.01/1.25,1.146,0.627,0.001/1.0
+Terreno + drenaje (7),7,1.508,0.777,0.1/1.25,1.386,0.711,0.1/1.0
+"Modelo completo, ancla (25)",25,1.96,0.868,0.1/1.25,1.095,0.639,0.1/1.0

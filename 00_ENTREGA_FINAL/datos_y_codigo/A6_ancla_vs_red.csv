@@ -1,0 +1,4 @@
+﻿escenario_lluvia,top13_area_coinciden,top13_indice_coinciden,spearman_area,spearman_indice,cambian_por_nbi_ancla,cambian_por_nbi_red
+climatologia_calibrada__beta_PIT,13,13,0.9999,0.9997,1,1
+red_ENSO__beta_PIT,13,13,0.9998,0.9997,2,2
+NMME_local__beta_PIT,13,13,0.9999,0.9997,4,4

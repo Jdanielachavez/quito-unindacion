@@ -1,0 +1,4 @@
+﻿modelo,n_variables,temporal_logdens,temporal_captura,espacial_logdens,espacial_captura
+Completo (25),25,1.96,0.868,1.095,0.639
+Solo físico (sin exposición),16,1.946,0.794,1.198,0.648
+Solo exposición,6,1.936,0.858,1.138,0.612

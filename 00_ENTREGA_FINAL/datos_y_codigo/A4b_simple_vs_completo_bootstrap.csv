@@ -1,0 +1,13 @@
+﻿protocolo,simple,metrica,dif_simple_menos_completo,ic95_inf,ic95_sup,bloques
+temporal,Terreno + drenaje (7),log-densidad,-0.452,-0.629,-0.241,36
+temporal,Terreno + drenaje (7),captura 10 %,-0.091,-0.182,-0.011,36
+temporal,Solo distancia a colector,log-densidad,-0.725,-0.996,-0.405,36
+temporal,Solo distancia a colector,captura 10 %,-0.155,-0.277,-0.044,36
+temporal,Urbano (3),log-densidad,-0.055,-0.236,0.116,36
+temporal,Urbano (3),captura 10 %,0.012,-0.02,0.039,36
+espacial,Terreno + drenaje (7),log-densidad,0.291,-0.044,0.595,13
+espacial,Terreno + drenaje (7),captura 10 %,0.072,-0.049,0.149,13
+espacial,Solo distancia a colector,log-densidad,0.111,-0.282,0.425,13
+espacial,Solo distancia a colector,captura 10 %,-0.021,-0.154,0.054,13
+espacial,Urbano (3),log-densidad,0.051,-0.056,0.182,13
+espacial,Urbano (3),captura 10 %,-0.012,-0.044,0.014,13

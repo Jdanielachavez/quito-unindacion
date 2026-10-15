@@ -1,0 +1,4 @@
+﻿escenario_lluvia,top13_indice_parroquial_vs_sector,entran_con_sector,salen,spearman_65,cambian_por_nbi_parroquial,cambian_por_nbi_sector
+climatologia_calibrada__beta_PIT,13,,,0.9992,1,1
+red_ENSO__beta_PIT,11,"CENTRO HISTORICO, EL CONDADO","POMASQUI, TUMBACO",0.9876,2,2
+NMME_local__beta_PIT,11,"PONCEANO, SAN BARTOLO","POMASQUI, TUMBACO",0.9857,4,3

@@ -1,0 +1,4 @@
+﻿posiciones,reportes_entrenamiento,reportes_prueba,logdens_prueba_mismas_posiciones,captura_mismas_posiciones,logdens_prueba_25_posiciones,captura_25_posiciones,max_dif_coef_vs_25
+25 (publicado),143,100,1.96,0.8676,1.96,0.8676,0.0
+solo la central (0),143,100,2.1132,0.92,1.952,0.8896,0.2906
+9 más centrales,143,100,1.9941,0.8711,1.9826,0.868,0.1691

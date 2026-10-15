@@ -1,0 +1,10 @@
+﻿protocolo,modelo,estrato,reportes,logdens_dentro_estrato,captura_dentro_estrato
+temporal,Completo (25),construido alto,95,0.329,0.199
+temporal,Solo físico (sin exposición),construido alto,95,0.358,0.213
+temporal,Solo exposición,construido alto,95,0.325,0.187
+espacial,Completo (25),construido bajo,8,0.425,0.285
+espacial,Completo (25),construido alto,48,-0.099,0.141
+espacial,Solo físico (sin exposición),construido bajo,8,0.236,0.192
+espacial,Solo físico (sin exposición),construido alto,48,0.006,0.198
+espacial,Solo exposición,construido bajo,8,0.368,0.365
+espacial,Solo exposición,construido alto,48,-0.057,0.164

@@ -1,0 +1,12 @@
+﻿concepto,personas_con_nbi
+"capa municipal, suma de 65 parroquias",390464.0
+"INEC, cantón Quito",367089.0
+exceso capa - INEC,23375.0
+sectores sin división: capa,363933.0
+sectores sin división: microdatos,363902.0
+sectores divididos: capa,26531.0
+sectores divididos: microdatos,2981.0
+exceso en sectores divididos,23550.0
+exceso en sectores sin división,31.0
+microdatos total,367058.0
+microdatos - INEC,-31.0

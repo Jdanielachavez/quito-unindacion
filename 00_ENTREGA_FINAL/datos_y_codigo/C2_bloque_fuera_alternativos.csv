@@ -1,0 +1,6 @@
+﻿modelo,logdens,captura,logdens_dif_vs_ancla,logdens_dif_ic_inf,logdens_dif_ic_sup,captura_dif_vs_ancla,captura_dif_ic_inf,captura_dif_ic_sup,bloques_mejor_que_ancla
+Ancla loglineal (repo),1.723,0.815,0.0,0.0,0.0,0.0,0.0,0.0,0
+Logística,1.771,0.846,0.047,-0.005,0.096,0.031,0.014,0.048,29
+Boosting (prof. 2),1.729,0.844,0.006,-0.094,0.127,0.029,0.003,0.053,29
+Bosque aleatorio,1.578,0.845,-0.145,-0.295,0.004,0.031,0.009,0.05,24
+Ensamble ancla + boosting + bosque,1.517,0.845,-0.206,-0.368,0.009,0.03,0.014,0.046,28
